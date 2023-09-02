@@ -1,0 +1,46 @@
+{
+  "fields": [
+    ["cores", "Количество ядер"],
+    ["memory", "ОЗУ"],
+    ["hdd_space", "SSD Диск"],
+    ["bandwith", "Пропускная способность"]
+  ],
+  "results": [
+    {
+      "pk": 433,
+      "name": "SSD Cloud 1GB",
+      "price": 5,
+      "bandwith": "100 Мбит/сек",
+      "cores": 1,
+      "hdd_space": "10 ГБ SSD",
+      "memory": "1 ГБ"
+    },
+    {
+      "pk": 434,
+      "name": "SSD Cloud 2GB",
+      "price": 10,
+      "bandwith": "100 Мбит/сек",
+      "cores": 1,
+      "hdd_space": "20 ГБ SSD",
+      "memory": "2 ГБ"
+    },
+    {
+      "pk": 438,
+      "name": "SSD Cloud 32GB",
+      "price": 160,
+      "bandwith": "100 Мбит/сек",
+      "cores": 6,
+      "hdd_space": "120 ГБ SSD",
+      "memory": "32 ГБ"
+    },
+    {
+      "pk": 435,
+      "name": "SSD Cloud 4GB",
+      "price": 20,
+      "bandwith": "100 Мбит/сек",
+      "cores": 2,
+      "hdd_space": "30 ГБ SSD",
+      "memory": "4 ГБ"
+    }
+  ]
+}
